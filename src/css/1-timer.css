@@ -17,6 +17,7 @@ body {
   width: 272px;
   height: 40px;
   border: 1px solid #808080;
+  padding-left: 16px;
 }
 
 .input:hover {
